@@ -1,15 +1,27 @@
- layout: default
-    title: Naba's Website
-    ---
+---
+layout: default
+---
 
-    # Welcome to My Minimal Website!
+#  Hi! I’m Naba Alhaidary :)  
 
-    This is a simple website created with Jekyll and the Minimal theme on GitHub Pages. 
-# Hi, I’m Naba :)  
+### Business Analyst | SQL • Excel • Tableau  
 
-**Aspiring Business Analyst | SQL • Excel • Tableau**  
+ I transform raw, messy datasets into **clear insights and actionable dashboards** that help businesses make better decisions.  
 
-I turn messy datasets into clear, decision-ready insights.  
+---
 
--= [About Me](about.md) | [Projects](projects.md)
- 
+##  Portfolio Highlights  
+
+-  **Pinterest Fashion Analysis** → Identified trends driving 30% higher engagement  
+-  **Global Layoffs Tracker** → Analyzed 2020–2023 layoffs, found tech = 45% of total  
+-  **Credit Default Risk** → Profiled 30k+ clients, uncovering repayment risk patterns  
+
+ [Explore My Projects](projects.md) | [About Me](about.md)  
+
+---
+
+## Let’s Connect  
+
+-
+- [GitHub](https://github.com/Naba05-web)  
+
