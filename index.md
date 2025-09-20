@@ -22,6 +22,6 @@ layout: default
 
 ## Let’s Connect  
 
--
+- Linkden- https://www.linkedin.com/in/naba-alhaidary-63080936b/?trk=opento_sprofile_topcard 
 - [GitHub](https://github.com/Naba05-web)  
 
